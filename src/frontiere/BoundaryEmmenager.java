@@ -60,7 +60,7 @@ public class BoundaryEmmenager {
 					+ "potion la plus forte que vous produisez"));
 			
 			if (effetPotionMax<effetPotionMin) {
-				System.out.println("Attention Druide, vous vous êtes trompé "
+				System.out.println("Attention Druide, vous vous ï¿½tes trompï¿½ "
 						+ "entre le minimum et le maximum ");
 			}
 				
