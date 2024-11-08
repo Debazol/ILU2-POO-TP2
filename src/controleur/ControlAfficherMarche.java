@@ -10,4 +10,9 @@ public class ControlAfficherMarche {
 	}
 
 	//TODO a completer
+	public String[] donnerInfosMarche() {
+		String[] infoMarche=null;
+		infoMarche=village.donnerEtatMarche();
+		return infoMarche;
+	}
 }
